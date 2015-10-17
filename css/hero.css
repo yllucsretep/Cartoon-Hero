@@ -1,0 +1,76 @@
+header {
+	padding-top: 50px;
+	text-align: center;
+
+}
+
+h1 {
+	color: #FFCC00;
+	font-size: 80px;
+	font-style: italic;
+	-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin: 20px 0px 40px;
+
+}
+
+.wrapper {
+	text-align: center;
+}
+
+.content {
+	background-image: url(' ../img/cheeze200.jpg');
+	padding-top: 40px;
+}
+
+h2 {
+	color: #B20000;
+	font-size: 40px;
+	padding: 0px 0px 20px;
+}
+
+p, ol, ul, a {
+	color: #8F4700;
+	font-size: 20px;
+}
+
+p, ol {
+	padding: 0px 0px 40px;
+}
+
+ul {
+	padding: 0px 0px 35px;
+}
+
+
+
+h2, p, ol, ul {
+	margin: auto;
+	width: 60%;
+}
+
+ol, ul {
+	list-style-position: inside;
+}
+
+.wrapper img {
+	padding: 20px 0px 0px;
+}
+
+p.caption {
+	color: gray;
+	font-size: 22px;
+	font-style: italic;
+	padding: 0px 0px 40px;
+}
+
+footer {
+	padding: 40px 0px 0px;
+}
+
+footer p {
+	color: gray;
+	font-size: 16px;
+	padding: 0px;
+}
+
