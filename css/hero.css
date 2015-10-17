@@ -9,6 +9,10 @@ header {
 
 }
 
+header img {
+	max-width: 100%;
+}
+
 h1 {
 	color: #FFCC00;
 	font-size: 80px;
@@ -60,6 +64,7 @@ ol, ul {
 
 .wrapper img {
 	padding: 20px 0px 0px;
+	max-width: 100%;
 }
 
 p.caption {
